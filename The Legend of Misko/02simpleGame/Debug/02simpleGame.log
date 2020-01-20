@@ -1,28 +1,3 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (02simpleGame.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  ebentoak.c
-  graphics.c
-C:\Users\aritz\OneDrive\Escritorio\The Legend of Misko\simpleSdlWrapper\ebentoak.h(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'SDL.h': No such file or directory
-  imagen.c
-C:\Users\aritz\OneDrive\Escritorio\The Legend of Misko\simpleSdlWrapper\graphics.c(9,10): fatal error C1083: No se puede abrir el archivo incluir: 'SDL_ttf.h': No such file or directory
-  soinua.c
-C:\Users\aritz\OneDrive\Escritorio\The Legend of Misko\simpleSdlWrapper\imagen.c(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'SDL.h': No such file or directory
-  text.c
-C:\Users\aritz\OneDrive\Escritorio\The Legend of Misko\simpleSdlWrapper\soinua.h(6,10): fatal error C1083: No se puede abrir el archivo incluir: 'SDL_mixer.h': No such file or directory
-  Mapak.c
-C:\Users\aritz\OneDrive\Escritorio\The Legend of Misko\simpleSdlWrapper\text.c(2,10): fatal error C1083: No se puede abrir el archivo incluir: 'SDL_TTF.h': No such file or directory
-  TLOM_Main.c
-C:\Users\aritz\OneDrive\Escritorio\The Legend of Misko\simpleSdlWrapper\graphics.h(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'SDL.h': No such file or directory
-  etsaiak.c
-C:\Users\aritz\OneDrive\Escritorio\The Legend of Misko\simpleSdlWrapper\graphics.h(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'SDL.h': No such file or directory
   Jokoa.c
-C:\Users\aritz\OneDrive\Escritorio\The Legend of Misko\simpleSdlWrapper\ebentoak.h(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'SDL.h': No such file or directory
-  hasieraEtaAmaiera.c
-C:\Users\aritz\OneDrive\Escritorio\The Legend of Misko\simpleSdlWrapper\graphics.h(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'SDL.h': No such file or directory
-  interakzioak.c
-C:\Users\aritz\OneDrive\Escritorio\The Legend of Misko\simpleSdlWrapper\graphics.h(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'SDL.h': No such file or directory
-  mugimendua.c
-C:\Users\aritz\OneDrive\Escritorio\The Legend of Misko\simpleSdlWrapper\graphics.h(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'SDL.h': No such file or directory
-  puzzleak.c
-C:\Users\aritz\OneDrive\Escritorio\The Legend of Misko\simpleSdlWrapper\graphics.h(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'SDL.h': No such file or directory
-  Generando código...
-C:\Users\aritz\OneDrive\Escritorio\The Legend of Misko\simpleSdlWrapper\graphics.h(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'SDL.h': No such file or directory
+  02simpleGame.vcxproj -> C:\Users\aritz\OneDrive\Escritorio\GITHUB PBL\The_Legend_of_Misko\The Legend of Misko\Debug\The Legend of Misko.exe

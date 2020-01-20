@@ -16,7 +16,7 @@
 
 EGOERA jokatu(void)
 { 
-	int atera = 9;// A DONDE ENTRAS
+	int atera = 0;// A DONDE ENTRAS
 	int sartu = 0;// DE DONDE SALES
 	EGOERA egoera = JOLASTEN;
 	int ebentu = 0;
