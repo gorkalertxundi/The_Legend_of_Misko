@@ -1,4 +1,4 @@
-# The_Legend_of_Misko
+# The Legend of Misko
 Mondragon Unibertsitateko Ingeniaritza Informatikako, 1. POPBL-a. 
 
 Jokoa hasteko, hurrengo pausuak jarraitu:
