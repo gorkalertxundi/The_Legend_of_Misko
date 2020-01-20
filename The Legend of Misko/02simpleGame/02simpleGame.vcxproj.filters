@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\simpleSdlWrapper">
+      <UniqueIdentifier>{a5a91ba7-983a-47d0-8e01-db504ca58d7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\simpleSdlWrapper">
+      <UniqueIdentifier>{e313185e-6943-4380-932a-4b6612d3ff10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\defineak">
+      <UniqueIdentifier>{eb91d456-59bb-4085-983f-ad2e6ac3c867}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\.h">
+      <UniqueIdentifier>{71f51f92-1fa5-401a-89ba-e1556800f579}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\.c">
+      <UniqueIdentifier>{1889d22e-a2b1-4146-a8c5-4df62d78459b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\simpleSdlWrapper\ebentoak.c">
+      <Filter>Source Files\simpleSdlWrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="..\simpleSdlWrapper\graphics.c">
+      <Filter>Source Files\simpleSdlWrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="..\simpleSdlWrapper\imagen.c">
+      <Filter>Source Files\simpleSdlWrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="..\simpleSdlWrapper\soinua.c">
+      <Filter>Source Files\simpleSdlWrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="..\simpleSdlWrapper\text.c">
+      <Filter>Source Files\simpleSdlWrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="puzzleak.c">
+      <Filter>Source Files\.c</Filter>
+    </ClCompile>
+    <ClCompile Include="etsaiak.c">
+      <Filter>Source Files\.c</Filter>
+    </ClCompile>
+    <ClCompile Include="hasieraEtaAmaiera.c">
+      <Filter>Source Files\.c</Filter>
+    </ClCompile>
+    <ClCompile Include="interakzioak.c">
+      <Filter>Source Files\.c</Filter>
+    </ClCompile>
+    <ClCompile Include="Mapak.c">
+      <Filter>Source Files\.c</Filter>
+    </ClCompile>
+    <ClCompile Include="mugimendua.c">
+      <Filter>Source Files\.c</Filter>
+    </ClCompile>
+    <ClCompile Include="TLOM_Main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="game02\Jokoa.c">
+      <Filter>Source Files\.c</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\simpleSdlWrapper\ebentoak.h">
+      <Filter>Header Files\simpleSdlWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="..\simpleSdlWrapper\graphics.h">
+      <Filter>Header Files\simpleSdlWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="..\simpleSdlWrapper\imagen.h">
+      <Filter>Header Files\simpleSdlWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="..\simpleSdlWrapper\soinua.h">
+      <Filter>Header Files\simpleSdlWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="..\simpleSdlWrapper\text.h">
+      <Filter>Header Files\simpleSdlWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="..\sdl2image\include\SDL_image.h">
+      <Filter>Header Files\simpleSdlWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="..\sdl2mixer\include\SDL_mixer.h">
+      <Filter>Header Files\simpleSdlWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="..\sdl2ttf\include\SDL_ttf.h">
+      <Filter>Header Files\simpleSdlWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="defineak.h">
+      <Filter>Header Files\defineak</Filter>
+    </ClInclude>
+    <ClInclude Include="puzzleak.h">
+      <Filter>Header Files\.h</Filter>
+    </ClInclude>
+    <ClInclude Include="etsaiak.h">
+      <Filter>Header Files\.h</Filter>
+    </ClInclude>
+    <ClInclude Include="game02\game02.h">
+      <Filter>Header Files\.h</Filter>
+    </ClInclude>
+    <ClInclude Include="hasieraEtaAmaiera.h">
+      <Filter>Header Files\.h</Filter>
+    </ClInclude>
+    <ClInclude Include="interkazioak.h">
+      <Filter>Header Files\.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Mapak.h">
+      <Filter>Header Files\.h</Filter>
+    </ClInclude>
+    <ClInclude Include="mugimendua.h">
+      <Filter>Header Files\.h</Filter>
+    </ClInclude>
+    <ClInclude Include="OurTypes.h">
+      <Filter>Header Files\.h</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
