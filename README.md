@@ -25,5 +25,11 @@ If you want to start the game, follow this steps:
   - Click "Depurador local de Windows".
   - ENJOY!!
   
+Pour initier le jeux, suivre cettes étapes:
 
+  - Télécharger Visual Studio 2019.
+  - Télécharger le réferentiel.
+  - Ouvre “The legend of Misko.sln”.
+  - Cliquer “Depurador local de Windows”.
+  - Profiter le jeu
 
